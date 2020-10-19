@@ -1,0 +1,11 @@
+Joke guesser App
+
+1. use joke api to fetch two part jokes 
+
+API : https://public-apis.io/joke-api
+
+2. Let the user guess the next part and using tensor flow text similarity api get the rank and store it
+
+API : https://github.com/tensorflow/tfjs-models/tree/master/universal-sentence-encoder
+
+3. You can create a quiz | multiplayer game for playing with friends 
