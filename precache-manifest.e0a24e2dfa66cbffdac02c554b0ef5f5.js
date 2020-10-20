@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddcf70d6a148d454b13351bf43695485",
+    "revision": "e729c92a44f4be9c3fab65fba6c3f866",
     "url": "/joke-guesser-game/index.html"
   },
   {
-    "revision": "ca8e51a2ff2127a4b5b9",
+    "revision": "945172a4fe414f1ac85f",
     "url": "/joke-guesser-game/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "6514370c046657088a3f",
-    "url": "/joke-guesser-game/static/js/2.4c49d1e6.chunk.js"
+    "revision": "c075d2b42edb65361ed2",
+    "url": "/joke-guesser-game/static/js/2.a5307345.chunk.js"
   },
   {
-    "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/joke-guesser-game/static/js/2.4c49d1e6.chunk.js.LICENSE.txt"
+    "revision": "9b318b6fb13190fe82c0677e9264b3c7",
+    "url": "/joke-guesser-game/static/js/2.a5307345.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca8e51a2ff2127a4b5b9",
-    "url": "/joke-guesser-game/static/js/main.d962cbd1.chunk.js"
+    "revision": "945172a4fe414f1ac85f",
+    "url": "/joke-guesser-game/static/js/main.049c571b.chunk.js"
   },
   {
     "revision": "864dbb78ff5e2ac7ddb5",
