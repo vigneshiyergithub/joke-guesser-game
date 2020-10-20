@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/joke-guesser-game/static/css/main.5f361e03.chunk.css",
+    "main.js": "/joke-guesser-game/static/js/main.d962cbd1.chunk.js",
+    "main.js.map": "/joke-guesser-game/static/js/main.d962cbd1.chunk.js.map",
+    "runtime-main.js": "/joke-guesser-game/static/js/runtime-main.f21e1847.js",
+    "runtime-main.js.map": "/joke-guesser-game/static/js/runtime-main.f21e1847.js.map",
+    "static/js/2.4c49d1e6.chunk.js": "/joke-guesser-game/static/js/2.4c49d1e6.chunk.js",
+    "static/js/2.4c49d1e6.chunk.js.map": "/joke-guesser-game/static/js/2.4c49d1e6.chunk.js.map",
+    "index.html": "/joke-guesser-game/index.html",
+    "precache-manifest.cc50ce8779f9b8bff99b404f41a03a06.js": "/joke-guesser-game/precache-manifest.cc50ce8779f9b8bff99b404f41a03a06.js",
+    "service-worker.js": "/joke-guesser-game/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/joke-guesser-game/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4c49d1e6.chunk.js.LICENSE.txt": "/joke-guesser-game/static/js/2.4c49d1e6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/joke-guesser-game/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f21e1847.js",
+    "static/js/2.4c49d1e6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d962cbd1.chunk.js"
+  ]
+}
