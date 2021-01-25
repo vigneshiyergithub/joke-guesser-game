@@ -11,6 +11,7 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-scripts": "3.4.3",
+    "string-similarity": "^4.0.2",
     "styled-components": "^5.2.0"
   },
   "scripts": {
