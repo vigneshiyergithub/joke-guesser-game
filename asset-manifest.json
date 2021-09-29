@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/joke-guesser-game/static/css/main.3c4125eb.chunk.css",
-    "main.js": "/joke-guesser-game/static/js/main.0f9c7e6e.chunk.js",
-    "main.js.map": "/joke-guesser-game/static/js/main.0f9c7e6e.chunk.js.map",
-    "runtime-main.js": "/joke-guesser-game/static/js/runtime-main.f21e1847.js",
-    "runtime-main.js.map": "/joke-guesser-game/static/js/runtime-main.f21e1847.js.map",
-    "static/js/2.dc303334.chunk.js": "/joke-guesser-game/static/js/2.dc303334.chunk.js",
-    "static/js/2.dc303334.chunk.js.map": "/joke-guesser-game/static/js/2.dc303334.chunk.js.map",
+    "main.js": "/joke-guesser-game/static/js/main.7b5dc14c.chunk.js",
+    "main.js.map": "/joke-guesser-game/static/js/main.7b5dc14c.chunk.js.map",
+    "runtime-main.js": "/joke-guesser-game/static/js/runtime-main.cf884e6c.js",
+    "runtime-main.js.map": "/joke-guesser-game/static/js/runtime-main.cf884e6c.js.map",
+    "static/js/2.bcb58cf5.chunk.js": "/joke-guesser-game/static/js/2.bcb58cf5.chunk.js",
+    "static/js/2.bcb58cf5.chunk.js.map": "/joke-guesser-game/static/js/2.bcb58cf5.chunk.js.map",
     "index.html": "/joke-guesser-game/index.html",
-    "precache-manifest.a788dcc50615649e5dabde515b370a8f.js": "/joke-guesser-game/precache-manifest.a788dcc50615649e5dabde515b370a8f.js",
+    "precache-manifest.c8bda65bb7bc1c40a057151cafcbeb77.js": "/joke-guesser-game/precache-manifest.c8bda65bb7bc1c40a057151cafcbeb77.js",
     "service-worker.js": "/joke-guesser-game/service-worker.js",
     "static/css/main.3c4125eb.chunk.css.map": "/joke-guesser-game/static/css/main.3c4125eb.chunk.css.map",
-    "static/js/2.dc303334.chunk.js.LICENSE.txt": "/joke-guesser-game/static/js/2.dc303334.chunk.js.LICENSE.txt"
+    "static/js/2.bcb58cf5.chunk.js.LICENSE.txt": "/joke-guesser-game/static/js/2.bcb58cf5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f21e1847.js",
-    "static/js/2.dc303334.chunk.js",
+    "static/js/runtime-main.cf884e6c.js",
+    "static/js/2.bcb58cf5.chunk.js",
     "static/css/main.3c4125eb.chunk.css",
-    "static/js/main.0f9c7e6e.chunk.js"
+    "static/js/main.7b5dc14c.chunk.js"
   ]
 }
