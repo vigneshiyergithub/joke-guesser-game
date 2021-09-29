@@ -7,7 +7,7 @@ export const JokeTypeDisplayer = (props) => {
         props.setJokeType(e.target.value)
     }
 
-    return <Block>
+    return <Block marginHorizontal paddingLeft={'30%'} paddingRight={'30%'}>
             <select value={props.jokeType} onChange={handleChange} disabled={!!props.jokeType} >
                 <option>Please Select</option>
                 <option value="Any">Any</option>
