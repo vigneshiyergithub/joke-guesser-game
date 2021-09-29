@@ -1,6 +1,6 @@
 {
   "homepage": "https://vigneshiyergithub.github.io/joke-guesser-game/",
-  "name": "summarizer",
+  "name": "joke-guesser-game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
